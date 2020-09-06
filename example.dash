@@ -1,0 +1,18 @@
+##
+## Main arguments, all optional
+##
+title: TV Dashboard
+widget_dimensions: [130, 130]
+widget_margins: [8, 9]
+columns: 9
+
+layout:
+    - weatherNew(2x2)
+    - 
+    - 
+    - 
+    -
+
+weatherNew:
+  widget_type: nwsdaynight
+  weather_entity: weather.kmle_daynight

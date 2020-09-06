@@ -1,0 +1,26 @@
+widget_type: basenwsdaynight
+fields:
+  current_icon: ""
+  temperature: ""
+  unit: ""
+  small_unit: ""
+  forecast_0_title: ""
+  forecast_0_icon: ""
+  forecast_0_temp: ""
+  forecast_0_precip: ""
+  forecast_0_humidity: ""
+  forecast_1_title: ""
+  forecast_1_icon: ""
+  forecast_1_temp: ""
+  forecast_1_precip: ""
+
+css: []
+static_css:
+  title_style: $weather_sub_style
+  unit_style: $weather_unit_style
+  main_style: $weather_main_style
+  sub_style: $weather_sub_style
+  sub_style_tomorrow: $weather_sub_style_tomorrow
+  widget_style: $weather_widget_style
+icons: []
+static_icons: []

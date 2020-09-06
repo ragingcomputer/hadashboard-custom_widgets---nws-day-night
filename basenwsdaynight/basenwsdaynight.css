@@ -1,0 +1,73 @@
+.widget-basenwsdaynight-{{id}} {
+	color: white;
+}
+
+.widget-basenwsdaynight-{{id}} h1 {
+	margin-bottom: 0px;
+}
+
+.widget-basenwsdaynight-{{id}} [class^="primary"] {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.widget-basenwsdaynight-{{id}} [class^="secondary"] {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.widget-basenwsdaynight-{{id}} .primary-climacon {
+	font-family: "Climacons-Font";
+	font-size: 70px;
+}
+
+.widget-basenwsdaynight-{{id}} .primary-info {
+	font-size: 275%;
+	font-weight: 400;
+}
+
+.widget-basenwsdaynight-{{id}} .primary-unit {
+	font-size: 100%;
+	font-weight: 400;
+	margin-left: 0;
+	margin-top: 20px;
+	vertical-align: top;
+}
+
+.widget-basenwsdaynight-{{id}} .secondary-icon {
+	font-family: "Climacons-Font";
+	font-size: 40px;
+	margin-left: 10px;
+	margin-right: 0px;
+}
+
+.widget-basenwsdaynight-{{id}} .secondary-climacon {
+	font-family: "Climacons-Font";
+	font-size: 30px;
+	margin-left: 8px;
+	margin-right: 4px;
+}
+
+.widget-basenwsdaynight-{{id}} .secondary-info {
+	font-size: 140%;
+	font-weight: 200;
+}
+
+.widget-basenwsdaynight-{{id}} hr {
+	width: 90%;
+	border: 0;
+	height: 1px;
+	background: rgba(255, 255, 255, 0.25);
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
