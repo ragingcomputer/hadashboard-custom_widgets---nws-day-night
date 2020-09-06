@@ -32,7 +32,7 @@ weatherNew:
 
 When selecting the NWS weather entity, be sure to use the one that ends in _daynight.
 
-![entity](dashboard_sample.png)
+![entity](entity_selection.png)
 
 ## Which Data is Displayed
 Current (large):
